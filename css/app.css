@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: purple;
+}
+h2 {
+    text-align: center;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+body {
+    text-align: center;
+}
